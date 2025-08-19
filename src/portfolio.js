@@ -26,7 +26,7 @@ const greeting = {
     "A Passionate Programmer Having an Experience of Building Web Applications with JavaScript and PHP, and also some other cool libraries and frameworks. I love to explore new tech stack and build awesome projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ae24ssA7E50YDxsHCZ3AX5K2LeBDbh6R/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
